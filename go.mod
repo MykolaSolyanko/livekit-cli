@@ -6,12 +6,12 @@ require (
 	github.com/frostbyte73/core v0.0.5
 	github.com/ggwhite/go-masker v1.0.9
 	github.com/go-logr/logr v1.2.4
-	github.com/livekit/protocol v1.5.4
+	github.com/livekit/protocol v1.5.5
 	github.com/livekit/server-sdk-go v1.0.10
 	github.com/manifoldco/promptui v0.9.0
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/pion/rtp v1.7.13
-	github.com/pion/webrtc/v3 v3.1.59
+	github.com/pion/webrtc/v3 v3.1.60
 	github.com/pkg/browser v0.0.0-20210911075715-681adbf594b8
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.8.2
@@ -38,11 +38,10 @@ require (
 	github.com/google/uuid v1.3.0 // indirect
 	github.com/gorilla/websocket v1.5.0 // indirect
 	github.com/jxskiss/base62 v1.1.0 // indirect
-	github.com/lithammer/shortuuid/v3 v3.0.7 // indirect
 	github.com/lithammer/shortuuid/v4 v4.0.0 // indirect
 	github.com/livekit/mageutil v0.0.0-20230125210925-54e8a70427c1 // indirect
 	github.com/livekit/mediatransportutil v0.0.0-20230326055817-ed569ca13d26 // indirect
-	github.com/livekit/psrpc v0.2.11-0.20230405191830-d76f71512630 // indirect
+	github.com/livekit/psrpc v0.3.0 // indirect
 	github.com/mackerelio/go-osstat v0.2.4 // indirect
 	github.com/magefile/mage v1.14.0 // indirect
 	github.com/mattn/go-runewidth v0.0.9 // indirect
@@ -78,7 +77,7 @@ require (
 	go.uber.org/multierr v1.6.0 // indirect
 	go.uber.org/zap v1.24.0 // indirect
 	golang.org/x/crypto v0.8.0 // indirect
-	golang.org/x/exp v0.0.0-20230321023759-10a507213a29 // indirect
+	golang.org/x/exp v0.0.0-20230420155640-133eef4313cb // indirect
 	golang.org/x/net v0.9.0 // indirect
 	golang.org/x/sys v0.7.0 // indirect
 	golang.org/x/text v0.9.0 // indirect
